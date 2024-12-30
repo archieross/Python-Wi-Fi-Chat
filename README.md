@@ -14,7 +14,8 @@ The following dependencies are required:
 - CV2
 - bidict
 
-<img width="1297" alt="Screenshot 2024-12-30 at 3 23 23 pm" src="https://github.com/user-attachments/assets/d7d907e3-0b50-4bb5-84fd-43f9311dc0b4" />
+<img width="700" alt="Screenshot 2024-12-30 at 3 23 23 pm" src="https://github.com/user-attachments/assets/d7d907e3-0b50-4bb5-84fd-43f9311dc0b4" />
 
-<img width="700" alt="Screenshot 2024-12-30 at 3 29 53 pm" src="https://github.com/user-attachments/assets/d7ab12af-b078-474e-be4f-177dd1b3b8e2" />
+<img width="700" alt="Screenshot 2024-12-30 at 3 29 53 pm" src="https://github.com/user-attachments/assets/3c6f9bd8-a354-4070-8480-f500ea45eb52" />
+
 
